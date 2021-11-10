@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+
+  foundation:
+    build: .
+    image: foundationrepository.azurecr.io/foundation
